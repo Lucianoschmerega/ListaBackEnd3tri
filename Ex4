@@ -1,0 +1,18 @@
+let A
+
+A = prompt("Digite a sua idade: ")
+
+if (A>=5 && A<=7)
+console.log("infantil A")
+
+if (A>=8 && A<=10)
+console.log("infantil B")
+
+if (A>=11 && A<=13)
+console.log("juvenil A")
+
+if (A>=14 && A<=17)
+console.log("juvenil B")
+
+if (A>=18)
+console.log("adulto")
